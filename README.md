@@ -41,4 +41,3 @@ I'm a frontend developer focused on crafting interfaces that are simple, intenti
 
 ---
 
-## Learning Journey
